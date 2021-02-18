@@ -1,2 +1,2 @@
-# guessing-the-price-of-a-house-
+# guessing-the-price-of-a-house
 Data Science Project
